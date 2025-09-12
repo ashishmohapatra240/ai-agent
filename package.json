@@ -1,0 +1,23 @@
+{
+  "name": "ai-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/anthropic": "^0.3.27",
+    "@langchain/core": "^0.3.75",
+    "@langchain/langgraph": "^0.4.9",
+    "dotenv": "^17.2.2",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.1"
+  }
+}
