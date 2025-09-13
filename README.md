@@ -14,11 +14,15 @@ For example, you can ask it: *"Add 6 and 8, then multiply that by 5, and divide 
 
 ## Why is it needed?
 
+<img width="1428" height="667" alt="image" src="https://github.com/user-attachments/assets/d2758467-9c66-4b1a-aa97-8e36d059342f" />
 
-Agents are required because LLMs rely only on static pretrained data, which limits their ability to answer realtime or external queries (e.g., today’s date)
+LLMs rely only on static pretrained data, which limits their ability to answer realtime or external queries (e.g., today’s date)
 
 
 ## Architecture
+
+<img width="1396" height="717" alt="image" src="https://github.com/user-attachments/assets/18c56ca0-0aaf-4e67-a66d-1c525d2e11a9" />
+
 
 
 ## Tech Stack
@@ -26,7 +30,6 @@ Agents are required because LLMs rely only on static pretrained data, which limi
 - **LangChain** - For building the AI agent
 - **LangGraph**: Manages the conversation flow
 - **Claude** - The AI model
-- **TypeScript** - Programming language
 - **Zod** - For data validation
 
 ## Getting started
